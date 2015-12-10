@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.os.IBinder;
 
 import com.Const.SPreference;
+//today you are foolish
 
 public class SelCanbusService extends Service {
 	protected SPreference spreference;
