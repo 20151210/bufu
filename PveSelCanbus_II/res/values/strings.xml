@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SelCanbus</string>
+    <string name="Celsius">℃</string>
+    <string name="Fahrenheit">℉</string>
+    <string name="car_type_select">车型选择</string>
+    <string name="submit_select">  提交     </string>
+
+    <string-array name="company_list">
+        <item>丰田</item>
+        <item>大众</item>
+        <item>本田</item>
+        <item>日产</item>
+        <item>现代</item>
+        <item>众泰</item>
+        <item>广汽</item>
+        <item>雪铁龙</item>
+        <item>上海通用</item>
+        <item>JEEP</item>
+        <item>马自达</item>
+        <item>一汽</item>
+    </string-array>
+    <string-array name="toyota">
+        <item>霸道</item>
+        <item>卡罗拉</item>
+        <item>凯美瑞</item>
+        <item>RV4</item>
+        <item>锐志</item>
+    </string-array>
+    <string-array name="volkswagen">
+        <item>高尔夫</item>
+        <item>凌度</item>
+        <item>昊锐</item>
+        <item>CC</item>
+        <item>迈腾</item>
+        <item>朗逸</item>
+    </string-array>
+    <string-array name="honda">
+        <item>凌派</item>
+        <item>杰德</item>
+        <item>缤智</item>
+        <item>歌诗图</item>
+        <item>CRV通用版</item>
+    </string-array>
+    <string-array name="nissan">
+        <item>奇骏</item>
+        <item>天籁</item>
+    </string-array>
+    <string-array name="hyundai">
+        <item>ix35</item>
+        <item>ix25</item>
+        <item>索兰托</item>
+    </string-array>
+    <string-array name="zotye">
+        <item>T600</item>
+    </string-array>
+    <string-array name="gac">
+        <item>GS4</item>
+        <item>菲翔低配</item>
+    </string-array>
+    <string-array name="citroen">
+        <item>爱丽舍</item>
+        <item>C3-XR</item>
+    </string-array>
+    <string-array name="sgmw">
+        <item>赛欧</item>
+        <item>威朗</item>
+        <item>英朗</item>
+        <item>宝骏730</item>
+    </string-array>
+    <string-array name="jeep">
+        <item>指南者</item>
+    </string-array>
+    <string-array name="mazda">
+        <item>阿特兹</item>
+    </string-array>
+    <string-array name="faw">
+        <item>奔腾x80</item>
+    </string-array>
+
+</resources>
